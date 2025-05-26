@@ -1,0 +1,316 @@
+@media screen and (max-width: 699px) {
+
+.hero{
+    margin: 30px 10px 30px 10px;}
+
+
+
+    .hero2 {
+        padding: 10px;
+        text-align: center;
+        margin-bottom:0px;
+    }
+
+    .hero2 h2 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .hero2 p {
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+.blog{
+    
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 5px 20px 5px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+    .blog1 h2{
+display: inline-block;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    blog1 h2{
+
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    
+
+    blog1 p{
+
+        font-size: 10px;
+        margin-top: 0px;
+        
+    }
+
+.blog {
+       margin: 0px;
+}
+
+.blog1{
+    margin-bottom: 5px;}
+
+
+.blogs1 p{
+    font-size: 8px;
+color: #0D1321;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.blogs1 h2{
+    font-size: 15px;
+    color: #0D132170;
+    font-style: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.blog3 img {
+    width:70%;
+}
+
+
+.btn2{
+    padding: 10px 30px;
+    border: none;
+  
+    
+}
+
+
+.inspiration{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+    margin: 2px;}
+
+.inspiration h2{
+    font-size: 18px;}
+   
+   .inspiration1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 5px;
+    border-radius: 10px;
+} 
+.yt iframe{
+    font-size: 1.5rem;
+    color: #000000;
+    font-style: bold;
+    margin-bottom: 20px;
+    border: #C6DBFF;
+    border-radius: 10px;
+    width: 92%;
+    height: 230px;}
+
+.terget{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin:2px;
+}
+
+
+    .terget-tab{
+        
+ display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0px;
+    }
+  
+    .tab , .tab2 ,.tab3{
+width: 090%;
+  
+    padding: 20px 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+ 
+    }
+    .footer1 p {
+        font-size: 8px;
+        color: #000000;
+        margin-bottom: 10px;
+    }
+
+
+
+     
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1000px) {
+
+  
+    
+
+   .hero2 {
+        padding: 10px;
+        text-align: center;
+        margin-bottom:0px;
+    }
+
+    .hero2 h2 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .hero2 p {
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+.blog{
+    
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 5px 20px 5px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+    .blog1 h2{
+display: inline-block;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    blog1 h2{
+
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    
+
+    blog1 p{
+
+        font-size: 10px;
+        margin-top: 0px;
+        
+    }
+
+.blog {
+       margin: 0px;
+}
+
+.blog1{
+    margin-bottom: 5px;}
+
+
+.blogs1 p{
+    font-size: 8px;
+color: #0D1321;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.blogs1 h2{
+    font-size: 15px;
+    color: #0D132170;
+    font-style: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.blog3 img {
+    width:70%;
+}
+
+
+.btn2{
+    padding: 10px 30px;
+    border: none;
+  
+    
+}
+
+
+.inspiration{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+    margin: 2px;}
+
+.inspiration h2{
+    font-size: 18px;}
+   
+   .inspiration1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 5px;
+    border-radius: 10px;
+} 
+.yt iframe{
+    font-size: 1.5rem;
+    color: #000000;
+    font-style: bold;
+    margin-bottom: 20px;
+    border: #C6DBFF;
+    border-radius: 10px;
+    width: 92%;
+    height: 230px;}
+
+.terget{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin:2px;
+}
+
+
+    .terget-tab{
+        
+ display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0px;
+    }
+  
+    .tab , .tab2 ,.tab3{
+width: 090%;
+  
+    padding: 20px 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+ 
+    }
+    .footer1 p {
+        font-size: 8px;
+        color: #000000;
+        margin-bottom: 10px;
+    }
+}
+
+
+
+
+
+
