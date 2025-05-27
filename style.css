@@ -87,6 +87,14 @@ body{
     border-radius: 10px;
       
 }
+
+.hero2 img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(175, 71, 71, 0.1);
+    border-right: 10px solid #4f78c0;
+}
 .blog{
     
     text-align: center;
@@ -184,6 +192,7 @@ color: #0D1321;
     border-radius: 10px;
     width: 80%;
     height: 500px;
+
   
     box-shadow: 2px 2px 10px rgba(175, 71, 71, 0.1);
  border-right: 10px solid #4f78c0;
@@ -390,4 +399,11 @@ a:hover {
 iframe:hover {
   transform: scale(0.85);
   transition: transform 0.3s ease;
+}
+
+
+.tab , .tab2 ,.tab3{
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
