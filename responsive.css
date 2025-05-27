@@ -1,7 +1,7 @@
 @media screen and (max-width: 699px) {
 
 .hero{
-    margin: 30px 10px 30px 10px;}
+    margin: 30px 20px 30px 20px;}
 
 .imgh{
 
@@ -33,6 +33,7 @@
     margin: 20px 5px 20px 5px;
     padding: 20px;
     border-radius: 10px;
+  
 
 }
     .blog1 h2{
@@ -80,7 +81,18 @@ color: #0D1321;
 .blog3 img {
     width:70%;
 }
+.blog2{
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    align-items: center;
+    
+}
+.blogs1{
+    text-align: center;
+    align-items: center;
 
+}
 
 .btn2{
     padding: 10px 30px;
