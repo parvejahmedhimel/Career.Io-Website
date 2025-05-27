@@ -381,14 +381,17 @@ h2 span:hover {
   transition: transform 0.3s ease;
 }
 h2:hover {
+  
   color: #FFA500;
   transition: color 0.3s ease;
 }
 img:hover {
-  transform: scale(1.05);
+  
+  transform: scale(1.15);
   transition: transform 0.3s ease;
 }
-p:hover {
+p:hover { 
+    
   color: #0148c3;
   transition: color 0.3s ease;
 }
@@ -406,4 +409,23 @@ iframe:hover {
 
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+
+p:hover{
+
+
+    border-bottom: 2px solid #3498db;
+    
+    border-bottom-right-radius: 20px;
+    
+    border-bottom-left-radius: 20px;
+    
+}
+.h2g:hover{
+
+
+    border-top: 2px solid #ff0202;
+    border-top-right-radius: 500px;
+    border-top-left-radius: 500px;
 }
